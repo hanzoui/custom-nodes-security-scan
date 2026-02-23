@@ -293,7 +293,7 @@ def trace_calls(frame, event, arg):
 
 sys.settrace(trace_calls)
 try:
-    from malware_samples import Hanzo Studio_LLMVISION
+    from malware_samples import HanzoStudio_LLMVISION
 except Exception as e:
     print("\n\n\nMain Terminated:")
     print(e)

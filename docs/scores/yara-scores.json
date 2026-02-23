@@ -44,7 +44,7 @@
             "anti_sandboxing"
         ]
     },
-    "Hanzo Studio_ADV_CLIP_emb": {
+    "HanzoStudio_ADV_CLIP_emb": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
@@ -233,7 +233,7 @@
             "compiler"
         ]
     },
-    "Hanzo Studio_FizzNodes": {
+    "HanzoStudio_FizzNodes": {
         "num_issues": 4,
         "num_matched_patterns": 2,
         "num_match_instances": 28,
@@ -254,7 +254,7 @@
             "compiler"
         ]
     },
-    "Hanzo Studio_VLM_nodes": {
+    "HanzoStudio_VLM_nodes": {
         "num_issues": 3,
         "num_matched_patterns": 1,
         "num_match_instances": 13,
@@ -287,7 +287,7 @@
             "anti_sandboxing"
         ]
     },
-    "Hanzo Studio_tinyterraNodes": {
+    "HanzoStudio_tinyterraNodes": {
         "num_issues": 2,
         "num_matched_patterns": 2,
         "num_match_instances": 12,
@@ -338,7 +338,7 @@
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "Hanzo Studio_Comfyroll_CustomNodes": {
+    "HanzoStudio_Comfyroll_CustomNodes": {
         "num_issues": 18,
         "num_matched_patterns": 18,
         "num_match_instances": 49,
@@ -399,7 +399,7 @@
             "findcrypt"
         ]
     },
-    "Hanzo Studio_IPAdapter_plus": {
+    "HanzoStudio_IPAdapter_plus": {
         "num_issues": 1,
         "num_matched_patterns": 1,
         "num_match_instances": 13,
@@ -462,7 +462,7 @@
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "Hanzo Studio_MaraScott_Nodes": {
+    "HanzoStudio_MaraScott_Nodes": {
         "num_issues": 1,
         "num_matched_patterns": 1,
         "num_match_instances": 3,
@@ -471,7 +471,7 @@
             "findcrypt"
         ]
     },
-    "Hanzo Studio_essentials": {
+    "HanzoStudio_essentials": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
@@ -511,7 +511,7 @@
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "Derfuu_Hanzo Studio_ModdedNodes": {
+    "Derfuu_HanzoStudio_ModdedNodes": {
         "num_issues": 1,
         "num_matched_patterns": 1,
         "num_match_instances": 1,
@@ -688,7 +688,7 @@
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "Hanzo Studio_Custom_Nodes_AlekPet": {
+    "HanzoStudio_Custom_Nodes_AlekPet": {
         "num_issues": 96,
         "num_matched_patterns": 114,
         "num_match_instances": 1376,
@@ -776,7 +776,7 @@
             "userdb_panda"
         ]
     },
-    "Hanzo Studio_UltimateSDUpscale": {
+    "HanzoStudio_UltimateSDUpscale": {
         "num_issues": 2,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
@@ -793,7 +793,7 @@
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "Hanzo Studio_Cutoff": {
+    "HanzoStudio_Cutoff": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
@@ -836,7 +836,7 @@
             "compiler"
         ]
     },
-    "Hanzo Studio_LayerStyle": {
+    "HanzoStudio_LayerStyle": {
         "num_issues": 143,
         "num_matched_patterns": 163,
         "num_match_instances": 1579,
@@ -897,7 +897,7 @@
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "Hanzo Studio_HF_Inference": {
+    "HanzoStudio_HF_Inference": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
@@ -965,7 +965,7 @@
             "findcrypt"
         ]
     },
-    "Hanzo Studio_StoryCreator": {
+    "HanzoStudio_StoryCreator": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,

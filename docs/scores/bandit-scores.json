@@ -202,7 +202,7 @@
             "B110"
         ]
     },
-    "Hanzo Studio_FizzNodes": {
+    "HanzoStudio_FizzNodes": {
         "score": 10.32,
         "failed_tests": [
             "B110",
@@ -219,7 +219,7 @@
             "B605"
         ]
     },
-    "Hanzo Studio_VLM_nodes": {
+    "HanzoStudio_VLM_nodes": {
         "score": 5.76,
         "failed_tests": [
             "B404",
@@ -248,7 +248,7 @@
             "B113"
         ]
     },
-    "Hanzo Studio_tinyterraNodes": {
+    "HanzoStudio_tinyterraNodes": {
         "score": 7.216000000000001,
         "failed_tests": [
             "B404",
@@ -379,14 +379,14 @@
             "B113"
         ]
     },
-    "Hanzo Studio_MaraScott_Nodes": {
+    "HanzoStudio_MaraScott_Nodes": {
         "score": 3.16,
         "failed_tests": [
             "B403",
             "B301"
         ]
     },
-    "Hanzo Studio_StoryCreator": {
+    "HanzoStudio_StoryCreator": {
         "score": 0.16,
         "failed_tests": [
             "B404"
@@ -663,7 +663,7 @@
             "B506"
         ]
     },
-    "Hanzo Studio_Custom_Nodes_AlekPet": {
+    "HanzoStudio_Custom_Nodes_AlekPet": {
         "score": 7.048,
         "failed_tests": [
             "B113",
@@ -1051,7 +1051,7 @@
             "B603"
         ]
     },
-    "Hanzo Studio_UltimateSDUpscale": {
+    "HanzoStudio_UltimateSDUpscale": {
         "score": 0.16,
         "failed_tests": [
             "B110"
@@ -1067,7 +1067,7 @@
             "B110"
         ]
     },
-    "Hanzo Studio_Cutoff": {
+    "HanzoStudio_Cutoff": {
         "score": 0.256,
         "failed_tests": [
             "B107",
@@ -1087,7 +1087,7 @@
             "B110"
         ]
     },
-    "Hanzo Studio_LayerStyle": {
+    "HanzoStudio_LayerStyle": {
         "score": 93.51999999999995,
         "failed_tests": [
             "B110",

@@ -19,7 +19,7 @@
         "raw": 649.4,
         "z_score": 0.028929057940573346
     },
-    "Hanzo Studio_ADV_CLIP_emb": {
+    "HanzoStudio_ADV_CLIP_emb": {
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
@@ -87,7 +87,7 @@
         "raw": 282.728,
         "z_score": -0.16033831813605867
     },
-    "Hanzo Studio_FizzNodes": {
+    "HanzoStudio_FizzNodes": {
         "raw": 155.44,
         "z_score": -0.2260413599992016
     },
@@ -95,7 +95,7 @@
         "raw": 5130.48,
         "z_score": 2.3419561055184475
     },
-    "Hanzo Studio_VLM_nodes": {
+    "HanzoStudio_VLM_nodes": {
         "raw": 110.28,
         "z_score": -0.24935187921970578
     },
@@ -107,7 +107,7 @@
         "raw": 1238.56,
         "z_score": 0.33303945439655724
     },
-    "Hanzo Studio_tinyterraNodes": {
+    "HanzoStudio_tinyterraNodes": {
         "raw": 87.696,
         "z_score": -0.2610092035349375
     },
@@ -127,7 +127,7 @@
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
-    "Hanzo Studio_Comfyroll_CustomNodes": {
+    "HanzoStudio_Comfyroll_CustomNodes": {
         "raw": 721.96,
         "z_score": 0.06638280627183515
     },
@@ -147,7 +147,7 @@
         "raw": 175.16000000000003,
         "z_score": -0.21586236444941545
     },
-    "Hanzo Studio_IPAdapter_plus": {
+    "HanzoStudio_IPAdapter_plus": {
         "raw": 40.52,
         "z_score": -0.2853603340651967
     },
@@ -179,11 +179,11 @@
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
-    "Hanzo Studio_MaraScott_Nodes": {
+    "HanzoStudio_MaraScott_Nodes": {
         "raw": 43.28,
         "z_score": -0.28393568762922256
     },
-    "Hanzo Studio_essentials": {
+    "HanzoStudio_essentials": {
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
@@ -199,7 +199,7 @@
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
-    "Derfuu_Hanzo Studio_ModdedNodes": {
+    "Derfuu_HanzoStudio_ModdedNodes": {
         "raw": 40.04,
         "z_score": -0.28560809866275744
     },
@@ -275,7 +275,7 @@
         "raw": 3.16,
         "z_score": -0.3046446785753392
     },
-    "Hanzo Studio_Custom_Nodes_AlekPet": {
+    "HanzoStudio_Custom_Nodes_AlekPet": {
         "raw": 4046.0879999999997,
         "z_score": 1.7822187149391526
     },
@@ -303,7 +303,7 @@
         "raw": 4648.280000000001,
         "z_score": 2.0930559202189105
     },
-    "Hanzo Studio_UltimateSDUpscale": {
+    "HanzoStudio_UltimateSDUpscale": {
         "raw": 64.16,
         "z_score": -0.27315792763533137
     },
@@ -311,7 +311,7 @@
         "raw": 0.8,
         "z_score": -0.3058628545133461
     },
-    "Hanzo Studio_Cutoff": {
+    "HanzoStudio_Cutoff": {
         "raw": 0.256,
         "z_score": -0.30614365439058155
     },
@@ -331,7 +331,7 @@
         "raw": 64.0,
         "z_score": -0.27324051583451825
     },
-    "Hanzo Studio_LayerStyle": {
+    "HanzoStudio_LayerStyle": {
         "raw": 6036.679999999999,
         "z_score": 2.809715018663285
     },
@@ -351,7 +351,7 @@
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
-    "Hanzo Studio_HF_Inference": {
+    "HanzoStudio_HF_Inference": {
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
@@ -383,7 +383,7 @@
         "raw": 80.12,
         "z_score": -0.2649197547664375
     },
-    "Hanzo Studio_StoryCreator": {
+    "HanzoStudio_StoryCreator": {
         "raw": 0.16,
         "z_score": -0.3061932073100937
     },
