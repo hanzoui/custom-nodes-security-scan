@@ -7,4 +7,4 @@ sleep 10
 echo "Firejail list:"
 echo firejail --list
 
-sudo firejail --join-network=comfyui-custom-nodes-sandbox tcpdump
+sudo firejail --join-network=hanzo-studio-custom-nodes-sandbox tcpdump

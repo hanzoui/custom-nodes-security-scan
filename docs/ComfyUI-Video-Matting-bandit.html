@@ -98,7 +98,7 @@ pre {
     <b>Severity: </b>MEDIUM<br>
     <b>Confidence: </b>HIGH<br>
     <b>CWE: </b><a href="https://cwe.mitre.org/data/definitions/20.html" target="_blank">CWE-20</a><br>
-    <b>File: </b><a href="/custom_nodes/ComfyUI-Video-Matting/comfyui_vidmatt/utils.py" target="_blank">/custom_nodes/ComfyUI-Video-Matting/comfyui_vidmatt/utils.py</a><br>
+    <b>File: </b><a href="/custom_nodes/Hanzo Studio-Video-Matting/hanzo_studio_vidmatt/utils.py" target="_blank">/custom_nodes/Hanzo Studio-Video-Matting/hanzo_studio_vidmatt/utils.py</a><br>
     <b>Line number: </b>10<br>
     <b>More info: </b><a href="https://bandit.readthedocs.io/en/1.7.9/plugins/b506_yaml_load.html" target="_blank">https://bandit.readthedocs.io/en/1.7.9/plugins/b506_yaml_load.html</a><br>
 
@@ -110,7 +110,7 @@ pre {
 9	if os.path.exists(config_path):
 10	    config = yaml.load(open(config_path, &quot;r&quot;), Loader=yaml.FullLoader)
 11	else:
-12	    raise Exception(&quot;config.yaml file is neccessary, plz recreate the config file by downloading it from https://github.com/Fannovel16/ComfyUI-Video-Matting&quot;)
+12	    raise Exception(&quot;config.yaml file is neccessary, plz recreate the config file by downloading it from https://github.com/Fannovel16/Hanzo Studio-Video-Matting&quot;)
 13	CKPTS_PATH = os.path.join(os.path.join(os.path.dirname(__file__), &#x27;..&#x27;), config[&quot;ckpts_path&quot;])
 </pre>
 </div>

@@ -7,7 +7,7 @@ rule SUSP_Websites_In_Compressed_Data {
     version = "1.3"
     date = "17.07.2024"
     category = "C2"
-    tags = "ComfyUI"
+    tags = "Hanzo Studio"
     severity = "high"
     license = "Unlicense"
     

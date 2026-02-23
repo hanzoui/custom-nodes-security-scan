@@ -1,5 +1,5 @@
 {
-    "stability-ComfyUI-nodes": {
+    "stability-Hanzo Studio-nodes": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
@@ -24,7 +24,7 @@
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "ComfyUI-DepthAnythingV2": {
+    "Hanzo Studio-DepthAnythingV2": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
@@ -44,7 +44,7 @@
             "anti_sandboxing"
         ]
     },
-    "ComfyUI_ADV_CLIP_emb": {
+    "Hanzo Studio_ADV_CLIP_emb": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
@@ -72,7 +72,7 @@
             "suspicious_sites"
         ]
     },
-    "ComfyUI-Iterative-Mixer": {
+    "Hanzo Studio-Iterative-Mixer": {
         "num_issues": 9,
         "num_matched_patterns": 12,
         "num_match_instances": 25,
@@ -89,7 +89,7 @@
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "comfyui-PromptAttention": {
+    "hanzo-studio-PromptAttention": {
         "num_issues": 13,
         "num_matched_patterns": 13,
         "num_match_instances": 95,
@@ -110,7 +110,7 @@
             "compiler"
         ]
     },
-    "ComfyUI-WD14-Tagger": {
+    "Hanzo Studio-WD14-Tagger": {
         "num_issues": 5,
         "num_matched_patterns": 5,
         "num_match_instances": 5,
@@ -121,7 +121,7 @@
             "findcrypt"
         ]
     },
-    "ComfyUI-BlenderAI-node": {
+    "Hanzo Studio-BlenderAI-node": {
         "num_issues": 468,
         "num_matched_patterns": 282,
         "num_match_instances": 1693,
@@ -163,21 +163,21 @@
             "compiler"
         ]
     },
-    "ComfyUI-Griptape": {
+    "Hanzo Studio-Griptape": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "comfyui-profiler": {
+    "hanzo-studio-profiler": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "comfyui-prompt-control": {
+    "hanzo-studio-prompt-control": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
@@ -199,7 +199,7 @@
             "findcrypt"
         ]
     },
-    "ComfyUI-LivePortraitKJ": {
+    "Hanzo Studio-LivePortraitKJ": {
         "num_issues": 1,
         "num_matched_patterns": 1,
         "num_match_instances": 1,
@@ -208,7 +208,7 @@
             "userdb_jclausing"
         ]
     },
-    "comfyui-Image-reward": {
+    "hanzo-studio-Image-reward": {
         "num_issues": 7,
         "num_matched_patterns": 7,
         "num_match_instances": 19,
@@ -219,7 +219,7 @@
             "anti_sandboxing"
         ]
     },
-    "ComfyUI-Frame-Interpolation": {
+    "Hanzo Studio-Frame-Interpolation": {
         "num_issues": 6,
         "num_matched_patterns": 4,
         "num_match_instances": 174,
@@ -233,7 +233,7 @@
             "compiler"
         ]
     },
-    "ComfyUI_FizzNodes": {
+    "Hanzo Studio_FizzNodes": {
         "num_issues": 4,
         "num_matched_patterns": 2,
         "num_match_instances": 28,
@@ -244,7 +244,7 @@
             "powershell_obfuscation"
         ]
     },
-    "AIGODLIKE-ComfyUI-Translation": {
+    "AIGODLIKE-Hanzo Studio-Translation": {
         "num_issues": 160,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
@@ -254,7 +254,7 @@
             "compiler"
         ]
     },
-    "ComfyUI_VLM_nodes": {
+    "Hanzo Studio_VLM_nodes": {
         "num_issues": 3,
         "num_matched_patterns": 1,
         "num_match_instances": 13,
@@ -265,7 +265,7 @@
             "compiler"
         ]
     },
-    "pose-generator-comfyui-node": {
+    "pose-generator-hanzo-studio-node": {
         "num_issues": 42,
         "num_matched_patterns": 42,
         "num_match_instances": 42,
@@ -287,7 +287,7 @@
             "anti_sandboxing"
         ]
     },
-    "ComfyUI_tinyterraNodes": {
+    "Hanzo Studio_tinyterraNodes": {
         "num_issues": 2,
         "num_matched_patterns": 2,
         "num_match_instances": 12,
@@ -297,7 +297,7 @@
             "powershell_obfuscation"
         ]
     },
-    "comfyui-prompt-reader-node": {
+    "hanzo-studio-prompt-reader-node": {
         "num_issues": 17,
         "num_matched_patterns": 17,
         "num_match_instances": 1343,
@@ -311,7 +311,7 @@
             "anti_sandboxing"
         ]
     },
-    "ComfyUI-DataSet": {
+    "Hanzo Studio-DataSet": {
         "num_issues": 1,
         "num_matched_patterns": 1,
         "num_match_instances": 1,
@@ -320,7 +320,7 @@
             "findcrypt"
         ]
     },
-    "ComfyUI-OpenPose-Editor": {
+    "Hanzo Studio-OpenPose-Editor": {
         "num_issues": 7,
         "num_matched_patterns": 9,
         "num_match_instances": 179,
@@ -331,14 +331,14 @@
             "anti_sandboxing"
         ]
     },
-    "ComfyUI-PNG-Metadata": {
+    "Hanzo Studio-PNG-Metadata": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "ComfyUI_Comfyroll_CustomNodes": {
+    "Hanzo Studio_Comfyroll_CustomNodes": {
         "num_issues": 18,
         "num_matched_patterns": 18,
         "num_match_instances": 49,
@@ -348,7 +348,7 @@
             "userdb_jclausing"
         ]
     },
-    "ComfyUI-AnimateDiff-Evolved": {
+    "Hanzo Studio-AnimateDiff-Evolved": {
         "num_issues": 25,
         "num_matched_patterns": 25,
         "num_match_instances": 47,
@@ -365,7 +365,7 @@
             "suspicious_sites"
         ]
     },
-    "ComfyUI-Easy-Use": {
+    "Hanzo Studio-Easy-Use": {
         "num_issues": 35,
         "num_matched_patterns": 41,
         "num_match_instances": 348,
@@ -381,7 +381,7 @@
             "svg_onload_onerror"
         ]
     },
-    "ComfyUI-dimension-node-modusCell": {
+    "Hanzo Studio-dimension-node-modusCell": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
@@ -399,7 +399,7 @@
             "findcrypt"
         ]
     },
-    "ComfyUI_IPAdapter_plus": {
+    "Hanzo Studio_IPAdapter_plus": {
         "num_issues": 1,
         "num_matched_patterns": 1,
         "num_match_instances": 13,
@@ -408,7 +408,7 @@
             "powershell_obfuscation"
         ]
     },
-    "comfyui_segment_anything": {
+    "hanzo_studio_segment_anything": {
         "num_issues": 12,
         "num_matched_patterns": 12,
         "num_match_instances": 60,
@@ -418,14 +418,14 @@
             "anti_sandboxing"
         ]
     },
-    "LoRA-Merger-ComfyUI": {
+    "LoRA-Merger-Hanzo Studio": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "ComfyUI-VideoHelperSuite": {
+    "Hanzo Studio-VideoHelperSuite": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
@@ -448,21 +448,21 @@
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "ComfyUI-Flowty-TripoSR": {
+    "Hanzo Studio-Flowty-TripoSR": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "ComfyUI-Path-Helper": {
+    "Hanzo Studio-Path-Helper": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "ComfyUI_MaraScott_Nodes": {
+    "Hanzo Studio_MaraScott_Nodes": {
         "num_issues": 1,
         "num_matched_patterns": 1,
         "num_match_instances": 3,
@@ -471,14 +471,14 @@
             "findcrypt"
         ]
     },
-    "ComfyUI_essentials": {
+    "Hanzo Studio_essentials": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "comfyui-mixlab-nodes": {
+    "hanzo-studio-mixlab-nodes": {
         "num_issues": 90,
         "num_matched_patterns": 146,
         "num_match_instances": 1730,
@@ -497,21 +497,21 @@
             "userdb_jclausing"
         ]
     },
-    "ComfyUI-Documents": {
+    "Hanzo Studio-Documents": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "ComfyUI-KepOpenAI": {
+    "Hanzo Studio-KepOpenAI": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "Derfuu_ComfyUI_ModdedNodes": {
+    "Derfuu_Hanzo Studio_ModdedNodes": {
         "num_issues": 1,
         "num_matched_patterns": 1,
         "num_match_instances": 1,
@@ -520,7 +520,7 @@
             "userdb_jclausing"
         ]
     },
-    "comfyui-reactor-node": {
+    "hanzo-studio-reactor-node": {
         "num_issues": 22,
         "num_matched_patterns": 22,
         "num_match_instances": 62,
@@ -535,14 +535,14 @@
             "packer"
         ]
     },
-    "comfyui-node-beautify": {
+    "hanzo-studio-node-beautify": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "ComfyUI-Prompt-MZ": {
+    "Hanzo Studio-Prompt-MZ": {
         "num_issues": 5,
         "num_matched_patterns": 5,
         "num_match_instances": 74,
@@ -552,14 +552,14 @@
             "powershell_obfuscation"
         ]
     },
-    "ComfyUI-Impact-Pack": {
+    "Hanzo Studio-Impact-Pack": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "ComfyUI-KJNodes": {
+    "Hanzo Studio-KJNodes": {
         "num_issues": 1,
         "num_matched_patterns": 1,
         "num_match_instances": 105,
@@ -568,7 +568,7 @@
             "powershell_obfuscation"
         ]
     },
-    "comfyui-sound-lab": {
+    "hanzo-studio-sound-lab": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
@@ -584,7 +584,7 @@
             "findcrypt"
         ]
     },
-    "comfyui-inpaint-nodes": {
+    "hanzo-studio-inpaint-nodes": {
         "num_issues": 7,
         "num_matched_patterns": 7,
         "num_match_instances": 14,
@@ -593,7 +593,7 @@
             "findcrypt"
         ]
     },
-    "ComfyUI-layerdiffuse": {
+    "Hanzo Studio-layerdiffuse": {
         "num_issues": 2,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
@@ -603,14 +603,14 @@
             "compiler"
         ]
     },
-    "comfyui-ultralytics-yolo": {
+    "hanzo-studio-ultralytics-yolo": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "ComfyUI-Manager": {
+    "Hanzo Manager": {
         "num_issues": 32,
         "num_matched_patterns": 29,
         "num_match_instances": 70,
@@ -627,14 +627,14 @@
             "anti_sandboxing"
         ]
     },
-    "comfyui-tooling-nodes": {
+    "hanzo-studio-tooling-nodes": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "comfyui-lama-remover": {
+    "hanzo-studio-lama-remover": {
         "num_issues": 1,
         "num_matched_patterns": 1,
         "num_match_instances": 3,
@@ -674,21 +674,21 @@
             "compiler"
         ]
     },
-    "comfyui-yanc": {
+    "hanzo-studio-yanc": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "ComfyUI-Inspire-Pack": {
+    "Hanzo Studio-Inspire-Pack": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "ComfyUI_Custom_Nodes_AlekPet": {
+    "Hanzo Studio_Custom_Nodes_AlekPet": {
         "num_issues": 96,
         "num_matched_patterns": 114,
         "num_match_instances": 1376,
@@ -716,7 +716,7 @@
             "anti_sandboxing"
         ]
     },
-    "comfyui-dynamicprompts": {
+    "hanzo-studio-dynamicprompts": {
         "num_issues": 10,
         "num_matched_patterns": 10,
         "num_match_instances": 20,
@@ -729,7 +729,7 @@
             "findcrypt"
         ]
     },
-    "ComfyUI-Custom-Scripts": {
+    "Hanzo Studio-Custom-Scripts": {
         "num_issues": 2,
         "num_matched_patterns": 4,
         "num_match_instances": 42,
@@ -755,7 +755,7 @@
             "findcrypt"
         ]
     },
-    "comfyui_controlnet_aux": {
+    "hanzo_studio_controlnet_aux": {
         "num_issues": 105,
         "num_matched_patterns": 99,
         "num_match_instances": 2147,
@@ -776,7 +776,7 @@
             "userdb_panda"
         ]
     },
-    "ComfyUI_UltimateSDUpscale": {
+    "Hanzo Studio_UltimateSDUpscale": {
         "num_issues": 2,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
@@ -786,21 +786,21 @@
             "compiler"
         ]
     },
-    "ComfyUI-Advanced-ControlNet": {
+    "Hanzo Studio-Advanced-ControlNet": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "ComfyUI_Cutoff": {
+    "Hanzo Studio_Cutoff": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "ComfyUI-ELLA": {
+    "Hanzo Studio-ELLA": {
         "num_issues": 1,
         "num_matched_patterns": 1,
         "num_match_instances": 1,
@@ -809,7 +809,7 @@
             "userdb_panda"
         ]
     },
-    "ComfyUI-Fans": {
+    "Hanzo Studio-Fans": {
         "num_issues": 2,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
@@ -819,7 +819,7 @@
             "compiler"
         ]
     },
-    "ComfyUI-Image-Selector": {
+    "Hanzo Studio-Image-Selector": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
@@ -836,7 +836,7 @@
             "compiler"
         ]
     },
-    "ComfyUI_LayerStyle": {
+    "Hanzo Studio_LayerStyle": {
         "num_issues": 143,
         "num_matched_patterns": 163,
         "num_match_instances": 1579,
@@ -890,14 +890,14 @@
             "findcrypt"
         ]
     },
-    "ComfyUI-MimicMotion": {
+    "Hanzo Studio-MimicMotion": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "ComfyUI_HF_Inference": {
+    "Hanzo Studio_HF_Inference": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
@@ -921,7 +921,7 @@
             "compiler"
         ]
     },
-    "Hakkun-ComfyUI-nodes": {
+    "Hakkun-Hanzo Studio-nodes": {
         "num_issues": 1,
         "num_matched_patterns": 1,
         "num_match_instances": 15,
@@ -930,7 +930,7 @@
             "powershell_obfuscation"
         ]
     },
-    "comfyui_bmab": {
+    "hanzo_studio_bmab": {
         "num_issues": 2,
         "num_matched_patterns": 2,
         "num_match_instances": 8,
@@ -940,7 +940,7 @@
             "Spyeye"
         ]
     },
-    "ComfyUI-Catcat": {
+    "Hanzo Studio-Catcat": {
         "num_issues": 1,
         "num_matched_patterns": 1,
         "num_match_instances": 4,
@@ -949,14 +949,14 @@
             "userdb_jclausing"
         ]
     },
-    "ComfyUI-RunRunRun": {
+    "Hanzo Studio-RunRunRun": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "ComfyUI-Helper-Nodes": {
+    "Hanzo Studio-Helper-Nodes": {
         "num_issues": 2,
         "num_matched_patterns": 2,
         "num_match_instances": 3,
@@ -965,14 +965,14 @@
             "findcrypt"
         ]
     },
-    "ComfyUI_StoryCreator": {
+    "Hanzo Studio_StoryCreator": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "ComfyUI-extensions": {
+    "Hanzo Studio-extensions": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
@@ -988,28 +988,28 @@
             "findcrypt"
         ]
     },
-    "ComfyUI-Notifications": {
+    "Hanzo Studio-Notifications": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "ComfyUI-Fast-Style-Transfer": {
+    "Hanzo Studio-Fast-Style-Transfer": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "EmbeddingsCurveEditor_ComfyUI": {
+    "EmbeddingsCurveEditor_Hanzo Studio": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "ComfyUI-JakeUpgrade": {
+    "Hanzo Studio-JakeUpgrade": {
         "num_issues": 3,
         "num_matched_patterns": 1,
         "num_match_instances": 9,
@@ -1027,14 +1027,14 @@
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "ComfyUI-ToSVG": {
+    "Hanzo Studio-ToSVG": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "ComfyUI-NuA-FlashFace": {
+    "Hanzo Studio-NuA-FlashFace": {
         "num_issues": 4,
         "num_matched_patterns": 4,
         "num_match_instances": 16,
@@ -1043,14 +1043,14 @@
             "findcrypt"
         ]
     },
-    "comfyui_lumaAPI": {
+    "hanzo_studio_lumaAPI": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "ComfyUI-Photopea": {
+    "Hanzo Studio-Photopea": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
@@ -1064,7 +1064,7 @@
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "ComfyUI-DeepFuze": {
+    "Hanzo Studio-DeepFuze": {
         "num_issues": 41,
         "num_matched_patterns": 47,
         "num_match_instances": 129,
@@ -1083,42 +1083,42 @@
             "suspicious_sites"
         ]
     },
-    "ComfyUI-Loopchain": {
+    "Hanzo Studio-Loopchain": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "ComfyUIInvisibleWatermark": {
+    "Hanzo StudioInvisibleWatermark": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "ComfyUI-Video-Matting": {
+    "Hanzo Studio-Video-Matting": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "ComfyUI-Embeddings-Tools": {
+    "Hanzo Studio-Embeddings-Tools": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "ComfyUI-FrameSkipping": {
+    "Hanzo Studio-FrameSkipping": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,
         "num_failed_tests": 0,
         "failed_tests": []
     },
-    "comfyui_wildcards": {
+    "hanzo_studio_wildcards": {
         "num_issues": 0,
         "num_matched_patterns": 0,
         "num_match_instances": 0,

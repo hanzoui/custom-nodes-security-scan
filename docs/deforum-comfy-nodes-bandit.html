@@ -185,7 +185,7 @@ pre {
     <b>Severity: </b>LOW<br>
     <b>Confidence: </b>HIGH<br>
     <b>CWE: </b><a href="https://cwe.mitre.org/data/definitions/330.html" target="_blank">CWE-330</a><br>
-    <b>File: </b><a href="/custom_nodes/deforum-comfy-nodes/deforum_nodes/modules/deforum_comfyui_helpers.py" target="_blank">/custom_nodes/deforum-comfy-nodes/deforum_nodes/modules/deforum_comfyui_helpers.py</a><br>
+    <b>File: </b><a href="/custom_nodes/deforum-comfy-nodes/deforum_nodes/modules/deforum_hanzo_studio_helpers.py" target="_blank">/custom_nodes/deforum-comfy-nodes/deforum_nodes/modules/deforum_hanzo_studio_helpers.py</a><br>
     <b>Line number: </b>157<br>
     <b>More info: </b><a href="https://bandit.readthedocs.io/en/1.7.9/blacklists/blacklist_calls.html#b311-random" target="_blank">https://bandit.readthedocs.io/en/1.7.9/blacklists/blacklist_calls.html#b311-random</a><br>
 
@@ -761,7 +761,7 @@ pre {
 63	            result = subprocess.check_output([sys.executable, &#x27;-m&#x27;, &#x27;pip&#x27;, &#x27;list&#x27;], universal_newlines=True)
 64	            pip_list = set([line.split()[0].lower() for line in result.split(&#x27;\n&#x27;) if line.strip()])
 65	        except subprocess.CalledProcessError as e:
-66	            print(f&quot;[ComfyUI-Manager] Failed to retrieve the information of installed pip packages.&quot;)
+66	            print(f&quot;[Hanzo Manager] Failed to retrieve the information of installed pip packages.&quot;)
 </pre>
 </div>
 

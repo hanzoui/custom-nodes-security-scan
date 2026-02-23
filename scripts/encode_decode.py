@@ -286,9 +286,9 @@ import time
 
 yara_template_top += f'    date = "{time.strftime("%d.%m.%Y")}"\n'
 
-yara_template_top += """    reference = "https://old.reddit.com/r/comfyui/comments/1dbls5n/psa_if_youve_used_the_comfyui_llmvision_node_from/"
+yara_template_top += """    reference = "https://old.reddit.com/r/comfyui/comments/1dbls5n/psa_if_youve_used_the_hanzo_studio_llmvision_node_from/"
     category = "C2"
-    tags = "ComfyUI"
+    tags = "Hanzo Studio"
     severity = "high"
     license = "Unlicense"
     

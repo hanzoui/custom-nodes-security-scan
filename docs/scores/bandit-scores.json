@@ -21,7 +21,7 @@
             "B113"
         ]
     },
-    "ComfyUI-DepthAnythingV2": {
+    "Hanzo Studio-DepthAnythingV2": {
         "score": 0.16,
         "failed_tests": [
             "B110"
@@ -49,7 +49,7 @@
             "B110"
         ]
     },
-    "comfyui-PromptAttention": {
+    "hanzo-studio-PromptAttention": {
         "score": 0.16,
         "failed_tests": [
             "B110"
@@ -63,13 +63,13 @@
             "B301"
         ]
     },
-    "ComfyUI-WD14-Tagger": {
+    "Hanzo Studio-WD14-Tagger": {
         "score": 0.16,
         "failed_tests": [
             "B110"
         ]
     },
-    "ComfyUI-BlenderAI-node": {
+    "Hanzo Studio-BlenderAI-node": {
         "score": 124.48799999999997,
         "failed_tests": [
             "B110",
@@ -124,7 +124,7 @@
             "B603"
         ]
     },
-    "ComfyUI-Griptape": {
+    "Hanzo Studio-Griptape": {
         "score": 7.199999999999999,
         "failed_tests": [
             "B113",
@@ -133,14 +133,14 @@
             "B113"
         ]
     },
-    "comfyui-profiler": {
+    "hanzo-studio-profiler": {
         "score": 0.32,
         "failed_tests": [
             "B110",
             "B110"
         ]
     },
-    "comfyui-prompt-control": {
+    "hanzo-studio-prompt-control": {
         "score": 0.256,
         "failed_tests": [
             "B107",
@@ -154,7 +154,7 @@
             "B404"
         ]
     },
-    "ComfyUI-LivePortraitKJ": {
+    "Hanzo Studio-LivePortraitKJ": {
         "score": 13.32,
         "failed_tests": [
             "B403",
@@ -163,13 +163,13 @@
             "B307"
         ]
     },
-    "comfyui-Image-reward": {
+    "hanzo-studio-Image-reward": {
         "score": 3,
         "failed_tests": [
             "B310"
         ]
     },
-    "ComfyUI-Frame-Interpolation": {
+    "Hanzo Studio-Frame-Interpolation": {
         "score": 51.76799999999998,
         "failed_tests": [
             "B605",
@@ -190,7 +190,7 @@
             "B506"
         ]
     },
-    "comfyui_bmab": {
+    "hanzo_studio_bmab": {
         "score": 14.240000000000002,
         "failed_tests": [
             "B324",
@@ -202,7 +202,7 @@
             "B110"
         ]
     },
-    "ComfyUI_FizzNodes": {
+    "Hanzo Studio_FizzNodes": {
         "score": 10.32,
         "failed_tests": [
             "B110",
@@ -210,7 +210,7 @@
             "B602"
         ]
     },
-    "AIGODLIKE-ComfyUI-Translation": {
+    "AIGODLIKE-Hanzo Studio-Translation": {
         "score": 10.48,
         "failed_tests": [
             "B404",
@@ -219,7 +219,7 @@
             "B605"
         ]
     },
-    "ComfyUI_VLM_nodes": {
+    "Hanzo Studio_VLM_nodes": {
         "score": 5.76,
         "failed_tests": [
             "B404",
@@ -248,7 +248,7 @@
             "B113"
         ]
     },
-    "ComfyUI_tinyterraNodes": {
+    "Hanzo Studio_tinyterraNodes": {
         "score": 7.216000000000001,
         "failed_tests": [
             "B404",
@@ -263,7 +263,7 @@
             "B606"
         ]
     },
-    "comfyui-prompt-reader-node": {
+    "hanzo-studio-prompt-reader-node": {
         "score": 3.48,
         "failed_tests": [
             "B110",
@@ -272,7 +272,7 @@
             "B110"
         ]
     },
-    "ComfyUI-AnimateDiff-Evolved": {
+    "Hanzo Studio-AnimateDiff-Evolved": {
         "score": 0.8,
         "failed_tests": [
             "B110",
@@ -282,7 +282,7 @@
             "B110"
         ]
     },
-    "ComfyUI-Easy-Use": {
+    "Hanzo Studio-Easy-Use": {
         "score": 24.648000000000003,
         "failed_tests": [
             "B110",
@@ -312,7 +312,7 @@
             "B605"
         ]
     },
-    "comfyui_segment_anything": {
+    "hanzo_studio_segment_anything": {
         "score": 10.440000000000001,
         "failed_tests": [
             "B404",
@@ -329,7 +329,7 @@
             "B506"
         ]
     },
-    "ComfyUI-VideoHelperSuite": {
+    "Hanzo Studio-VideoHelperSuite": {
         "score": 1.5999999999999999,
         "failed_tests": [
             "B404",
@@ -379,20 +379,20 @@
             "B113"
         ]
     },
-    "ComfyUI_MaraScott_Nodes": {
+    "Hanzo Studio_MaraScott_Nodes": {
         "score": 3.16,
         "failed_tests": [
             "B403",
             "B301"
         ]
     },
-    "ComfyUI_StoryCreator": {
+    "Hanzo Studio_StoryCreator": {
         "score": 0.16,
         "failed_tests": [
             "B404"
         ]
     },
-    "comfyui-mixlab-nodes": {
+    "hanzo-studio-mixlab-nodes": {
         "score": 45.56799999999994,
         "failed_tests": [
             "B404",
@@ -422,7 +422,7 @@
             "B324"
         ]
     },
-    "ComfyUI-Documents": {
+    "Hanzo Studio-Documents": {
         "score": 0.64,
         "failed_tests": [
             "B404",
@@ -438,14 +438,14 @@
             "B113"
         ]
     },
-    "ComfyUI-Fast-Style-Transfer": {
+    "Hanzo Studio-Fast-Style-Transfer": {
         "score": 0.32,
         "failed_tests": [
             "B404",
             "B603"
         ]
     },
-    "ComfyUI-JakeUpgrade": {
+    "Hanzo Studio-JakeUpgrade": {
         "score": 3.48,
         "failed_tests": [
             "B110",
@@ -454,7 +454,7 @@
             "B110"
         ]
     },
-    "comfyui-reactor-node": {
+    "hanzo-studio-reactor-node": {
         "score": 50.64,
         "failed_tests": [
             "B404",
@@ -475,7 +475,7 @@
             "B307"
         ]
     },
-    "ComfyUI-Prompt-MZ": {
+    "Hanzo Studio-Prompt-MZ": {
         "score": 17.96,
         "failed_tests": [
             "B110",
@@ -500,7 +500,7 @@
             "B603"
         ]
     },
-    "ComfyUI-Impact-Pack": {
+    "Hanzo Studio-Impact-Pack": {
         "score": 5.5600000000000005,
         "failed_tests": [
             "B110",
@@ -522,13 +522,13 @@
             "B603"
         ]
     },
-    "ComfyUI-KJNodes": {
+    "Hanzo Studio-KJNodes": {
         "score": 1.7999999999999998,
         "failed_tests": [
             "B113"
         ]
     },
-    "comfyui-sound-lab": {
+    "hanzo-studio-sound-lab": {
         "score": 1.5999999999999999,
         "failed_tests": [
             "B404",
@@ -543,7 +543,7 @@
             "B603"
         ]
     },
-    "ComfyUI-NuA-FlashFace": {
+    "Hanzo Studio-NuA-FlashFace": {
         "score": 13.16,
         "failed_tests": [
             "B404",
@@ -551,7 +551,7 @@
             "B310"
         ]
     },
-    "ComfyUI-Manager": {
+    "Hanzo Manager": {
         "score": 16.776000000000003,
         "failed_tests": [
             "B404",
@@ -608,7 +608,7 @@
             "B603"
         ]
     },
-    "comfyui_lumaAPI": {
+    "hanzo_studio_lumaAPI": {
         "score": 12.600000000000001,
         "failed_tests": [
             "B113",
@@ -656,14 +656,14 @@
             "B607"
         ]
     },
-    "ComfyUI-Inspire-Pack": {
+    "Hanzo Studio-Inspire-Pack": {
         "score": 3.16,
         "failed_tests": [
             "B110",
             "B506"
         ]
     },
-    "ComfyUI_Custom_Nodes_AlekPet": {
+    "Hanzo Studio_Custom_Nodes_AlekPet": {
         "score": 7.048,
         "failed_tests": [
             "B113",
@@ -700,7 +700,7 @@
             "B603"
         ]
     },
-    "ComfyUI-Custom-Scripts": {
+    "Hanzo Studio-Custom-Scripts": {
         "score": 0.16,
         "failed_tests": [
             "B110"
@@ -712,7 +712,7 @@
             "B113"
         ]
     },
-    "ComfyUI-DeepFuze": {
+    "Hanzo Studio-DeepFuze": {
         "score": 173.2799999999995,
         "failed_tests": [
             "B404",
@@ -914,7 +914,7 @@
             "B603"
         ]
     },
-    "comfyui_controlnet_aux": {
+    "hanzo_studio_controlnet_aux": {
         "score": 410.4000000000005,
         "failed_tests": [
             "B404",
@@ -1051,13 +1051,13 @@
             "B603"
         ]
     },
-    "ComfyUI_UltimateSDUpscale": {
+    "Hanzo Studio_UltimateSDUpscale": {
         "score": 0.16,
         "failed_tests": [
             "B110"
         ]
     },
-    "ComfyUI-Advanced-ControlNet": {
+    "Hanzo Studio-Advanced-ControlNet": {
         "score": 0.8,
         "failed_tests": [
             "B110",
@@ -1067,27 +1067,27 @@
             "B110"
         ]
     },
-    "ComfyUI_Cutoff": {
+    "Hanzo Studio_Cutoff": {
         "score": 0.256,
         "failed_tests": [
             "B107",
             "B105"
         ]
     },
-    "ComfyUI-Video-Matting": {
+    "Hanzo Studio-Video-Matting": {
         "score": 3,
         "failed_tests": [
             "B506"
         ]
     },
-    "ComfyUI-Image-Selector": {
+    "Hanzo Studio-Image-Selector": {
         "score": 0.32,
         "failed_tests": [
             "B110",
             "B110"
         ]
     },
-    "ComfyUI_LayerStyle": {
+    "Hanzo Studio_LayerStyle": {
         "score": 93.51999999999995,
         "failed_tests": [
             "B110",

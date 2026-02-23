@@ -1,5 +1,5 @@
 {
-    "stability-ComfyUI-nodes": {
+    "stability-Hanzo Studio-nodes": {
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
@@ -11,7 +11,7 @@
         "raw": 2.44,
         "z_score": -0.3050163254716802
     },
-    "ComfyUI-DepthAnythingV2": {
+    "Hanzo Studio-DepthAnythingV2": {
         "raw": 0.16,
         "z_score": -0.3061932073100937
     },
@@ -19,7 +19,7 @@
         "raw": 649.4,
         "z_score": 0.028929057940573346
     },
-    "ComfyUI_ADV_CLIP_emb": {
+    "Hanzo Studio_ADV_CLIP_emb": {
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
@@ -31,7 +31,7 @@
         "raw": 182.8,
         "z_score": -0.2119187779382407
     },
-    "ComfyUI-Iterative-Mixer": {
+    "Hanzo Studio-Iterative-Mixer": {
         "raw": 385.0,
         "z_score": -0.10754794121578849
     },
@@ -39,7 +39,7 @@
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
-    "comfyui-PromptAttention": {
+    "hanzo-studio-PromptAttention": {
         "raw": 523.9599999999999,
         "z_score": -0.03582009022196084
     },
@@ -47,11 +47,11 @@
         "raw": 64.0,
         "z_score": -0.27324051583451825
     },
-    "ComfyUI-WD14-Tagger": {
+    "Hanzo Studio-WD14-Tagger": {
         "raw": 200.35999999999999,
         "z_score": -0.2028547230774778
     },
-    "ComfyUI-BlenderAI-node": {
+    "Hanzo Studio-BlenderAI-node": {
         "raw": 17424.208000000002,
         "z_score": 8.687686460603707
     },
@@ -59,15 +59,15 @@
         "raw": 184.2,
         "z_score": -0.2111961311953553
     },
-    "ComfyUI-Griptape": {
+    "Hanzo Studio-Griptape": {
         "raw": 7.199999999999999,
         "z_score": -0.3025593265458698
     },
-    "comfyui-profiler": {
+    "hanzo-studio-profiler": {
         "raw": 0.32,
         "z_score": -0.30611061911090676
     },
-    "comfyui-prompt-control": {
+    "hanzo-studio-prompt-control": {
         "raw": 0.256,
         "z_score": -0.30614365439058155
     },
@@ -75,31 +75,31 @@
         "raw": 865.6800000000001,
         "z_score": 0.14056765619147332
     },
-    "ComfyUI-LivePortraitKJ": {
+    "Hanzo Studio-LivePortraitKJ": {
         "raw": 53.36,
         "z_score": -0.2787326310804475
     },
-    "comfyui-Image-reward": {
+    "hanzo-studio-Image-reward": {
         "raw": 283.76,
         "z_score": -0.15980562425130315
     },
-    "ComfyUI-Frame-Interpolation": {
+    "Hanzo Studio-Frame-Interpolation": {
         "raw": 282.728,
         "z_score": -0.16033831813605867
     },
-    "ComfyUI_FizzNodes": {
+    "Hanzo Studio_FizzNodes": {
         "raw": 155.44,
         "z_score": -0.2260413599992016
     },
-    "AIGODLIKE-ComfyUI-Translation": {
+    "AIGODLIKE-Hanzo Studio-Translation": {
         "raw": 5130.48,
         "z_score": 2.3419561055184475
     },
-    "ComfyUI_VLM_nodes": {
+    "Hanzo Studio_VLM_nodes": {
         "raw": 110.28,
         "z_score": -0.24935187921970578
     },
-    "pose-generator-comfyui-node": {
+    "pose-generator-hanzo-studio-node": {
         "raw": 1681.68,
         "z_score": 0.5617674720446929
     },
@@ -107,39 +107,39 @@
         "raw": 1238.56,
         "z_score": 0.33303945439655724
     },
-    "ComfyUI_tinyterraNodes": {
+    "Hanzo Studio_tinyterraNodes": {
         "raw": 87.696,
         "z_score": -0.2610092035349375
     },
-    "comfyui-prompt-reader-node": {
+    "hanzo-studio-prompt-reader-node": {
         "raw": 737.2,
         "z_score": 0.07424933224438794
     },
-    "ComfyUI-DataSet": {
+    "Hanzo Studio-DataSet": {
         "raw": 40.04,
         "z_score": -0.28560809866275744
     },
-    "ComfyUI-OpenPose-Editor": {
+    "Hanzo Studio-OpenPose-Editor": {
         "raw": 303.16,
         "z_score": -0.1497918050998908
     },
-    "ComfyUI-PNG-Metadata": {
+    "Hanzo Studio-PNG-Metadata": {
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
-    "ComfyUI_Comfyroll_CustomNodes": {
+    "Hanzo Studio_Comfyroll_CustomNodes": {
         "raw": 721.96,
         "z_score": 0.06638280627183515
     },
-    "ComfyUI-AnimateDiff-Evolved": {
+    "Hanzo Studio-AnimateDiff-Evolved": {
         "raw": 1002.68,
         "z_score": 0.21128380174526135
     },
-    "ComfyUI-Easy-Use": {
+    "Hanzo Studio-Easy-Use": {
         "raw": 1486.568,
         "z_score": 0.4610552925462206
     },
-    "ComfyUI-dimension-node-modusCell": {
+    "Hanzo Studio-dimension-node-modusCell": {
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
@@ -147,19 +147,19 @@
         "raw": 175.16000000000003,
         "z_score": -0.21586236444941545
     },
-    "ComfyUI_IPAdapter_plus": {
+    "Hanzo Studio_IPAdapter_plus": {
         "raw": 40.52,
         "z_score": -0.2853603340651967
     },
-    "comfyui_segment_anything": {
+    "hanzo_studio_segment_anything": {
         "raw": 492.84,
         "z_score": -0.05188349496381399
     },
-    "LoRA-Merger-ComfyUI": {
+    "LoRA-Merger-Hanzo Studio": {
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
-    "ComfyUI-VideoHelperSuite": {
+    "Hanzo Studio-VideoHelperSuite": {
         "raw": 1.5999999999999999,
         "z_score": -0.3054499135174115
     },
@@ -171,59 +171,59 @@
         "raw": 14.8,
         "z_score": -0.2986363870844918
     },
-    "ComfyUI-Flowty-TripoSR": {
+    "Hanzo Studio-Flowty-TripoSR": {
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
-    "ComfyUI-Path-Helper": {
+    "Hanzo Studio-Path-Helper": {
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
-    "ComfyUI_MaraScott_Nodes": {
+    "Hanzo Studio_MaraScott_Nodes": {
         "raw": 43.28,
         "z_score": -0.28393568762922256
     },
-    "ComfyUI_essentials": {
+    "Hanzo Studio_essentials": {
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
-    "comfyui-mixlab-nodes": {
+    "hanzo-studio-mixlab-nodes": {
         "raw": 4162.768,
         "z_score": 1.8424461591962038
     },
-    "ComfyUI-Documents": {
+    "Hanzo Studio-Documents": {
         "raw": 0.64,
         "z_score": -0.305945442712533
     },
-    "ComfyUI-KepOpenAI": {
+    "Hanzo Studio-KepOpenAI": {
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
-    "Derfuu_ComfyUI_ModdedNodes": {
+    "Derfuu_Hanzo Studio_ModdedNodes": {
         "raw": 40.04,
         "z_score": -0.28560809866275744
     },
-    "comfyui-reactor-node": {
+    "hanzo-studio-reactor-node": {
         "raw": 933.12,
         "z_score": 0.17537858214875407
     },
-    "comfyui-node-beautify": {
+    "hanzo-studio-node-beautify": {
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
-    "ComfyUI-Prompt-MZ": {
+    "Hanzo Studio-Prompt-MZ": {
         "raw": 220.92000000000002,
         "z_score": -0.1922421394819604
     },
-    "ComfyUI-Impact-Pack": {
+    "Hanzo Studio-Impact-Pack": {
         "raw": 5.5600000000000005,
         "z_score": -0.30340585558753563
     },
-    "ComfyUI-KJNodes": {
+    "Hanzo Studio-KJNodes": {
         "raw": 46.0,
         "z_score": -0.28253168824304514
     },
-    "comfyui-sound-lab": {
+    "hanzo-studio-sound-lab": {
         "raw": 1.5999999999999999,
         "z_score": -0.3054499135174115
     },
@@ -231,27 +231,27 @@
         "raw": 40.08,
         "z_score": -0.2855874516129607
     },
-    "comfyui-inpaint-nodes": {
+    "hanzo-studio-inpaint-nodes": {
         "raw": 280.56,
         "z_score": -0.16145738823504124
     },
-    "ComfyUI-layerdiffuse": {
+    "Hanzo Studio-layerdiffuse": {
         "raw": 64.0,
         "z_score": -0.27324051583451825
     },
-    "comfyui-ultralytics-yolo": {
+    "hanzo-studio-ultralytics-yolo": {
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
-    "ComfyUI-Manager": {
+    "Hanzo Manager": {
         "raw": 1275.576,
         "z_score": 0.35214623427844793
     },
-    "comfyui-tooling-nodes": {
+    "hanzo-studio-tooling-nodes": {
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
-    "comfyui-lama-remover": {
+    "hanzo-studio-lama-remover": {
         "raw": 40.12,
         "z_score": -0.28556680456316397
     },
@@ -267,15 +267,15 @@
         "raw": 145.48,
         "z_score": -0.23118247539858647
     },
-    "comfyui-yanc": {
+    "hanzo-studio-yanc": {
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
-    "ComfyUI-Inspire-Pack": {
+    "Hanzo Studio-Inspire-Pack": {
         "raw": 3.16,
         "z_score": -0.3046446785753392
     },
-    "ComfyUI_Custom_Nodes_AlekPet": {
+    "Hanzo Studio_Custom_Nodes_AlekPet": {
         "raw": 4046.0879999999997,
         "z_score": 1.7822187149391526
     },
@@ -283,11 +283,11 @@
         "raw": 756.4,
         "z_score": 0.0841599161468166
     },
-    "comfyui-dynamicprompts": {
+    "hanzo-studio-dynamicprompts": {
         "raw": 400.8,
         "z_score": -0.09939235654608153
     },
-    "ComfyUI-Custom-Scripts": {
+    "Hanzo Studio-Custom-Scripts": {
         "raw": 97.84,
         "z_score": -0.25577311170648764
     },
@@ -299,31 +299,31 @@
         "raw": 78.84,
         "z_score": -0.2655804603599327
     },
-    "comfyui_controlnet_aux": {
+    "hanzo_studio_controlnet_aux": {
         "raw": 4648.280000000001,
         "z_score": 2.0930559202189105
     },
-    "ComfyUI_UltimateSDUpscale": {
+    "Hanzo Studio_UltimateSDUpscale": {
         "raw": 64.16,
         "z_score": -0.27315792763533137
     },
-    "ComfyUI-Advanced-ControlNet": {
+    "Hanzo Studio-Advanced-ControlNet": {
         "raw": 0.8,
         "z_score": -0.3058628545133461
     },
-    "ComfyUI_Cutoff": {
+    "Hanzo Studio_Cutoff": {
         "raw": 0.256,
         "z_score": -0.30614365439058155
     },
-    "ComfyUI-ELLA": {
+    "Hanzo Studio-ELLA": {
         "raw": 40.04,
         "z_score": -0.28560809866275744
     },
-    "ComfyUI-Fans": {
+    "Hanzo Studio-Fans": {
         "raw": 64.0,
         "z_score": -0.27324051583451825
     },
-    "ComfyUI-Image-Selector": {
+    "Hanzo Studio-Image-Selector": {
         "raw": 0.32,
         "z_score": -0.30611061911090676
     },
@@ -331,7 +331,7 @@
         "raw": 64.0,
         "z_score": -0.27324051583451825
     },
-    "ComfyUI_LayerStyle": {
+    "Hanzo Studio_LayerStyle": {
         "raw": 6036.679999999999,
         "z_score": 2.809715018663285
     },
@@ -347,11 +347,11 @@
         "raw": 498.36,
         "z_score": -0.049034202091865715
     },
-    "ComfyUI-MimicMotion": {
+    "Hanzo Studio-MimicMotion": {
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
-    "ComfyUI_HF_Inference": {
+    "Hanzo Studio_HF_Inference": {
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
@@ -363,31 +363,31 @@
         "raw": 70.16,
         "z_score": -0.2700608701658224
     },
-    "Hakkun-ComfyUI-nodes": {
+    "Hakkun-Hanzo Studio-nodes": {
         "raw": 40.6,
         "z_score": -0.2853190399656032
     },
-    "comfyui_bmab": {
+    "hanzo_studio_bmab": {
         "raw": 94.56,
         "z_score": -0.25746616978981923
     },
-    "ComfyUI-Catcat": {
+    "Hanzo Studio-Catcat": {
         "raw": 40.16,
         "z_score": -0.28554615751336726
     },
-    "ComfyUI-RunRunRun": {
+    "Hanzo Studio-RunRunRun": {
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
-    "ComfyUI-Helper-Nodes": {
+    "Hanzo Studio-Helper-Nodes": {
         "raw": 80.12,
         "z_score": -0.2649197547664375
     },
-    "ComfyUI_StoryCreator": {
+    "Hanzo Studio_StoryCreator": {
         "raw": 0.16,
         "z_score": -0.3061932073100937
     },
-    "ComfyUI-extensions": {
+    "Hanzo Studio-extensions": {
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
@@ -395,19 +395,19 @@
         "raw": 124.19999999999999,
         "z_score": -0.24216670589044495
     },
-    "ComfyUI-Notifications": {
+    "Hanzo Studio-Notifications": {
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
-    "ComfyUI-Fast-Style-Transfer": {
+    "Hanzo Studio-Fast-Style-Transfer": {
         "raw": 0.32,
         "z_score": -0.30611061911090676
     },
-    "EmbeddingsCurveEditor_ComfyUI": {
+    "EmbeddingsCurveEditor_Hanzo Studio": {
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
-    "ComfyUI-JakeUpgrade": {
+    "Hanzo Studio-JakeUpgrade": {
         "raw": 107.84,
         "z_score": -0.25061134925730605
     },
@@ -415,19 +415,19 @@
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
-    "ComfyUI-ToSVG": {
+    "Hanzo Studio-ToSVG": {
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
-    "ComfyUI-NuA-FlashFace": {
+    "Hanzo Studio-NuA-FlashFace": {
         "raw": 173.79999999999998,
         "z_score": -0.21656436414250418
     },
-    "comfyui_lumaAPI": {
+    "hanzo_studio_lumaAPI": {
         "raw": 12.600000000000001,
         "z_score": -0.29977197482331175
     },
-    "ComfyUI-Photopea": {
+    "Hanzo Studio-Photopea": {
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
@@ -435,31 +435,31 @@
         "raw": 0.32,
         "z_score": -0.30611061911090676
     },
-    "ComfyUI-DeepFuze": {
+    "Hanzo Studio-DeepFuze": {
         "raw": 1866.4399999999996,
         "z_score": 0.6571361950557721
     },
-    "ComfyUI-Loopchain": {
+    "Hanzo Studio-Loopchain": {
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
-    "ComfyUIInvisibleWatermark": {
+    "Hanzo StudioInvisibleWatermark": {
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
-    "ComfyUI-Video-Matting": {
+    "Hanzo Studio-Video-Matting": {
         "raw": 3.0,
         "z_score": -0.3047272667745261
     },
-    "ComfyUI-Embeddings-Tools": {
+    "Hanzo Studio-Embeddings-Tools": {
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
-    "ComfyUI-FrameSkipping": {
+    "Hanzo Studio-FrameSkipping": {
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },
-    "comfyui_wildcards": {
+    "hanzo_studio_wildcards": {
         "raw": 0.0,
         "z_score": -0.3062757955092806
     },

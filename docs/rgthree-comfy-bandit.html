@@ -195,7 +195,7 @@ pre {
 58	checked = subprocess.run(cmds, check=True)
 59	log_step(status=&quot;Done&quot;)
 60	
-61	# Handle the common directories. Because ComfyUI loads under /extensions/rgthree-comfy we can&#x27;t
+61	# Handle the common directories. Because Hanzo Studio loads under /extensions/rgthree-comfy we can&#x27;t
 </pre>
 </div>
 
@@ -222,8 +222,8 @@ pre {
 96	adjs = [&#x27;exciting&#x27;, &#x27;extraordinary&#x27;, &#x27;epic&#x27;, &#x27;fantastic&#x27;, &#x27;magnificent&#x27;]
 97	log(f&#x27;Loaded {len(nodes)} {random.choice(adjs)} nodes.&#x27;, color=&#x27;BRIGHT_GREEN&#x27;)
 98	
-99	# Alright, I don&#x27;t like doing this, but until https://github.com/comfyanonymous/ComfyUI/issues/1502
-100	# and/or https://github.com/comfyanonymous/ComfyUI/pull/1503 is pulled into ComfyUI, we need a way
+99	# Alright, I don&#x27;t like doing this, but until https://github.com/hanzoai/studio/issues/1502
+100	# and/or https://github.com/hanzoai/studio/pull/1503 is pulled into Hanzo Studio, we need a way
 </pre>
 </div>
 
@@ -244,7 +244,7 @@ pre {
 
 <div class="code">
 <pre>
-3	# A nicer output for git pulling custom nodes (and ComfyUI).
+3	# A nicer output for git pulling custom nodes (and Hanzo Studio).
 4	# Quick shell version: ls | xargs -I % sh -c &#x27;echo; echo %; git -C % pull&#x27;
 5	
 6	import os
